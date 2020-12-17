@@ -1,0 +1,7 @@
+ OC0.6.3-AMD3600-BigSur11.0.1
+硬件
+AMD 3600 
+微星B450 
+迪兰RX 590 8G X战神PLUS
+海康威视c2000pro 500GB
+Asgard T23200✖️28GB
