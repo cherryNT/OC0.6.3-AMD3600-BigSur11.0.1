@@ -1,0 +1,7 @@
+# OC0.6.3-AMD3600-BigSur11.0.1
+硬件
+AMD 3600 
+MSI B450MORAR MAX 
+迪兰 RX 590 8G X 战神 PLUS
+Hikvision c2000pro 500GB
+Asgard T2 3200✖️2 8GB
